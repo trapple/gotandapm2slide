@@ -38,10 +38,10 @@
 
 ---
 
-### あるスタッフのブログを読んでいたら
+### <a href="http://onigra.github.io/blog/2014/08/30/yapc-asia-2014-is-over/">あるスタッフのブログ</a>を読んでいたら
 ### Ruby界隈にはRubyFriendsというサービスがあることを知る
 <img src="suzuki.png" width="300">
-#### http://onigra.github.io/blog/2014/08/30/yapc-asia-2014-is-over/
+### http://magazine.rubyist.net/?0042-Ruby20thAnniversaryPartyReport#l5
 
 ---
 
