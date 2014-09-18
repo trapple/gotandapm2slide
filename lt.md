@@ -145,6 +145,7 @@ get "/images/:page" => sub {
 ---
 
 # 僕とPerlFriendsしてください！
+## http://perlfriends.com/
 
 ご清聴ありがとうございました。
 
